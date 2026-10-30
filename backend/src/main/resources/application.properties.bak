@@ -1,0 +1,10 @@
+spring.application.name=HSD
+spring.datasource.url=jdbc:postgresql://localhost:5432/devkit
+spring.jpa.properties.hibernate.default_schema=hsd
+spring.datasource.username=postgres
+spring.datasource.password=62497
+spring.jpa.hibernate.ddl-auto=create
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.format_sql=true
+
+
